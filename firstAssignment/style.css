@@ -1,0 +1,22 @@
+/* ID selector for unique element */
+#name {
+    background-color: aquamarine;  
+}
+
+/* Class selector for paragraphs with specific class */
+p {
+    color: brown;
+}
+
+
+/*setting color of heading*/
+
+.heading {
+    color: red;
+}
+
+/* setting background color blue  */
+
+button {
+    background-color: blue;
+}
